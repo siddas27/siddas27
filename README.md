@@ -1,5 +1,5 @@
 ### About me 🧑🏻‍💻
-[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7685107&theme=dark)](https://stackoverflow.com/users/7685107/siddharth-das)
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7685107&theme=dark)](https://stackoverflow.com/users/7685107/siddharth-das)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthdas8) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sidereal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sid_e_real) 
 
 ## Tech Stack
